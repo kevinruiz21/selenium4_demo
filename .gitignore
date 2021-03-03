@@ -18,6 +18,7 @@ target/
 # Misc
 bmp.log
 chromedriver*
+msedgedriver*
 tfl.properties
 taxi-rank.iml
 
